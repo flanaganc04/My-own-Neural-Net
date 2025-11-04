@@ -1,4 +1,6 @@
-Heres the read me, these fist couple of commits are just gonna be initial updates and making sure Im pushing to github from google colab
+This Neural Network will be a digit recognizer for the MNIST handwriting data set. 
+Heres the read me, these fist couple of commits are just gonna be initial updates and making sure Im pushing to github from google colab.
+Basic functions completed, read data, hidden layers, forward prop, soft max, one hot encode. 
 The test and train digits come from https://www.kaggle.com/competitions/digit-recognizer/overview and are from the MNIST (Modified National Institute of Standards and Technology) handwriting data set.
 References
 https://www.w3schools.com/python/ref_math_exp.asp
